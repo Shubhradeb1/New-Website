@@ -1,0 +1,22 @@
+.container {
+    max-width: 1000px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.bokachuda {
+    display: flex;
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    }
+    .bokachuda li {margin-right: 20px;}
+    .bokachuda li a {
+        background-color: aqua; color: black;padding: 20px; display: inline-block; text-decoration: none;
+    }
+    .row{
+        display: flex;
+    }
+    .column {
+        padding-left: 10px;
+        padding-right: 10px;
+    }
